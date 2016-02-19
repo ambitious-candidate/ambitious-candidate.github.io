@@ -1,1 +1,1 @@
-resume export index.html -t slick
+resume export youarehired\index.html -t slick
