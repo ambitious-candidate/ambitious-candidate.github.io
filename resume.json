@@ -19,6 +19,21 @@
         "network": "twitter",
         "username": "ambi_candidate",
         "url": ""
+      },
+      {
+        "network": "linkedin",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "googleplus",
+        "username": "ambitious.candidate",
+        "url": ""
+      },
+      {
+        "network": "github",
+        "username": "ambitious-candidate",
+        "url": ""
       }
     ]
   },
