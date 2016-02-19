@@ -1,0 +1,235 @@
+{
+  "basics": {
+    "name": "Ambitious Candidate",
+    "label": "Looking for an engaging project",
+    "picture": "https://scontent-lhr3-1.xx.fbcdn.net/hphotos-frc3/v/t1.0-9/10306178_10152506763096024_5791117048939353831_n.jpg?oh=03ea560c87b308fd1a4948189854d040&oe=575D61AE",
+    "email": "ambitious.candidate@gmail.com",
+    "phone": "07870700206",
+    "website": "http://ambitious-candidate.github.io",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "London",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "ambi_candidate",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Resourcing Consultancy",
+      "position": "Financial Manager",
+      "website": "",
+      "startDate": "Jul 2014",
+      "endDate": "Current",
+      "summary": "Financial Manager reporting to CEO",
+      "highlights": [
+        "Responsible for cash flow management & oversight of the credit control function.",
+        "Liaison with the Financing Bank; negotiated borrowing limits; regular f2f meetings.",
+        "Invoicing clients, issuing client account statements.",
+        "Monitoring progress of Credit Control Team, reviewing credit reports.",
+        "Reconciliation of accounts and factoring.",
+        "Staff training and development; managing projects.",
+        "Delivering the best possible result on time and within budget."
+      ]
+    },
+    {
+      "company": "Recruitment Group of Companies (RG)",
+      "position": "Senior Compliance Officer",
+      "website": "",
+      "startDate": "Nov 2009",
+      "endDate": "Jun 2014",
+      "summary": "It was my pleasure to have been recognised, promoted and have had exposure to various functions within this diverse organisation.",
+      "highlights": [
+        "Responsible for the audit and compliance function across RG businesses.",
+        "Managing multiple projects at any given time.",
+        "Carried out internal audits and reported back to senior management.",
+        "Liaising with service suppliers, establishing contacts with new organizations.",
+        "Staff training and development support.",
+        "Looking after the day-to-day running of the department and dealing with any issues relating to staff or project work in a very positive and proactive manner.",
+        "Keeping abreast of trends and developments, actively encouraging learning and development.",
+        "Full time staff and freelance resource recruitment.",
+        "Creating a positive and enjoyable working environment.",
+        "Presenting cost and time estimates on project work."
+      ]
+    },
+    {
+      "company": "Maternity Leave",
+      "position": "",
+      "website": "",
+      "startDate": "Dec 2008",
+      "endDate": "Oct 2009",
+      "summary": "",
+      "highlights": [
+        "A proud mother of the most beautiful boy"
+      ]
+    },
+    {
+      "company": "Recruitment Group of Companies",
+      "position": "Compliance Manager",
+      "website": "",
+      "startDate": "Aug 2007",
+      "endDate": "Nov 2008",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Recruitment Group of Companies",
+      "position": "Compliance Officer",
+      "website": "",
+      "startDate": "May 2007",
+      "endDate": "Jul 2007",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Recruitment Group of Companies",
+      "position": "Recruitment Consultant",
+      "website": "",
+      "startDate": "Aug 2006",
+      "endDate": "Apr 2007",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Private Limited Company",
+      "position": "Assistant Manager",
+      "website": "",
+      "startDate": "Sep 2004",
+      "endDate": "July 2006",
+      "summary": "A client-facing role",
+      "highlights": [
+        "Maintained and developed relationships with suppliers and managed budgets and resources.",
+        "Market research and strategic business development"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Primary School",
+      "position": "Teaching Assistant",
+      "website": "",
+      "startDate": "2014",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lviv State University",
+      "area": "Linguistics",
+      "studyType": "Bachelor",
+      "startDate": "2000",
+      "endDate": "2004",
+      "gpa": "",
+      "courses": [
+        "Linguistics",
+        "Psychology",
+        "Sociology",
+        "Political Science",
+        "Marketing",
+        "Entrepreneurship"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Quarter",
+      "date": "Nov 2015",
+      "awarder": "Recruitment Group of Companies",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Creativity",
+      "level": "What do you think of this CV?",
+      "keywords": []
+    },
+    {
+      "name": "Lifelong learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team building",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Time management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sage Line 50",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Evolve",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PRINCE2",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Live music",
+      "keywords": []
+    },
+    {
+      "name": "Theatre",
+      "keywords": []
+    },
+    {
+      "name": "Skiing",
+      "keywords": []
+    },
+    {
+      "name": "Sailing",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
