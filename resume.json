@@ -39,12 +39,12 @@
   },
   "work": [
     {
-      "company": "Resourcing Consultancy",
+      "company": "Medical Resourcing International, London",
       "position": "Financial Manager",
       "website": "",
       "startDate": "Jul 2014",
       "endDate": "Current",
-      "summary": "Financial Manager reporting to CEO",
+      "summary": "",
       "highlights": [
         "Responsible for cash flow management & oversight of the credit control function.",
         "Liaison with the Financing Bank; negotiated borrowing limits; regular f2f meetings.",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "company": "Recruitment Group of Companies (RG)",
+      "company": "Recruitment Investment Group, London",
       "position": "Senior Compliance Officer",
       "website": "",
       "startDate": "Nov 2009",
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "company": "Recruitment Group of Companies",
+      "company": "Recruitment Investment Group, London",
       "position": "Compliance Manager",
       "website": "",
       "startDate": "Aug 2007",
@@ -96,7 +96,7 @@
       "highlights": []
     },
     {
-      "company": "Recruitment Group of Companies",
+      "company": "Recruitment Investment Group, London",
       "position": "Compliance Officer",
       "website": "",
       "startDate": "May 2007",
@@ -105,7 +105,7 @@
       "highlights": []
     },
     {
-      "company": "Recruitment Group of Companies",
+      "company": "Recruitment Investment Group, London",
       "position": "Recruitment Consultant",
       "website": "",
       "startDate": "Aug 2006",
@@ -131,7 +131,7 @@
       "organization": "Primary School",
       "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2014",
+      "startDate": "2013",
       "endDate": "Current",
       "summary": "",
       "highlights": []
@@ -158,14 +158,14 @@
   "awards": [
     {
       "title": "Employee of the Quarter",
-      "date": "Nov 2015",
-      "awarder": "Recruitment Group of Companies",
+      "date": "",
+      "awarder": "Medical Resourcing International",
       "summary": ""
     },
     {
-      "title": "",
+      "title": "Employee of the Month",
       "date": "",
-      "awarder": "",
+      "awarder": "Recruitment Investment Group",
       "summary": ""
     }
   ],
@@ -221,6 +221,14 @@
     {
       "language": "English",
       "fluency": "Bilingual"
+    },
+    {
+      "language": "Ukrainian",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Fluent"
     }
   ],
   "interests": [
